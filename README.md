@@ -1,2 +1,2 @@
 Página maquetada con tailwind
-<a href='https://platzifood-carmenfrontdev.netlify.app/'>PlatziFood</a>
+<a href='https://platzifood-carmenfrontdev.netlify.app/'>24hBurguers</a>
